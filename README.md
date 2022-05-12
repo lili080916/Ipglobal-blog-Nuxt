@@ -24,7 +24,7 @@ Requerimientos mínimos:
 Node js version 16.*
 ```
 Clonar la api del Github:
-`git clone https://github.com/lili080916/Ipglobal-blog.git`
+`git clone https://github.com/lili080916/Ipglobal-blog-Nuxt.git`
 
 Comando para iniciar el proyecto:
 ```command
